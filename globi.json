@@ -196,7 +196,7 @@
         "titles" : "kingdom",
         "datatype" : "string"
       }, {
-        "name" : "link",
+        "name" : "referenceUrl",
         "titles" : "link",
         "datatype" : "string"
       }, {
